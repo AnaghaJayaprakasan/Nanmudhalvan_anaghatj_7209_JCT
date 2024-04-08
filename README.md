@@ -1,3 +1,19 @@
+
+# NotesSharing_webApp_NM_FullStackPDjango_Project
+
+Project Developed by: ANAGHA T J
+
+Mention your name
+Regnumber :720921244006
+college name:JCT COLLEGE OF ENGINEERING AND TECHNOLOGY COIMBATORE
+
+
+Login credentials:
+
+
+Username: admin
+
+Password: admin
 # django-notesapp
 Notes Sharing App using django(python framework)
 
